@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **thegreataint/thegreataint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,11 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" />
-</div>  
-  
-
 ### <div align="center">I'm Mohamed Abu El-Nour, </div>  
   
 
