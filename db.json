@@ -246,61 +246,6 @@
          "releaseDate":"2021-09-23T00:26:05.868Z",
          "categoryId":2,
          "rating":1
-      },
-      {
-         "id":21,
-         "name":"Gorgeous Metal Pants",
-         "image":"http://placeimg.com/640/480/cats",
-         "color":"red",
-         "price":962,
-         "currency":"USD",
-         "releaseDate":"2021-09-22T20:17:56.533Z",
-         "categoryId":4,
-         "rating":5
-      },
-      {
-         "id":22,
-         "name":"Licensed Steel Mouse",
-         "image":"http://placeimg.com/640/480/cats",
-         "color":"yellow",
-         "price":915,
-         "currency":"USD",
-         "releaseDate":"2021-09-22T15:16:06.334Z",
-         "categoryId":5,
-         "rating":3
-      },
-      {
-         "id":23,
-         "name":"Incredible Granite Sausages",
-         "image":"http://placeimg.com/640/480/cats",
-         "color":"lavender",
-         "price":70,
-         "currency":"USD",
-         "releaseDate":"2021-09-23T09:43:20.824Z",
-         "categoryId":5,
-         "rating":5
-      },
-      {
-         "id":24,
-         "name":"Rustic Concrete Salad",
-         "image":"http://placeimg.com/640/480/cats",
-         "color":"green",
-         "price":409,
-         "currency":"USD",
-         "releaseDate":"2021-09-23T08:58:28.876Z",
-         "categoryId":5,
-         "rating":5
-      },
-      {
-         "id":25,
-         "name":"Generic Plastic Computer",
-         "image":"http://placeimg.com/640/480/cats",
-         "color":"cyan",
-         "price":526,
-         "currency":"USD",
-         "releaseDate":"2021-09-22T16:40:07.441Z",
-         "categoryId":5,
-         "rating":3
       }
    ]
 }
