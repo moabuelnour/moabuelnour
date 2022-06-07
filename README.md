@@ -106,13 +106,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thegreataint&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=thegreataint&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=thegreataint&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=thegreataint&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
@@ -139,4 +133,4 @@ Here are some ideas to get you started:
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">1000110 1010101 1000011 1001011 100000 1010100 1001000 1000101 100000 1010111 1001111 1010010 1001100 1000100</div>
